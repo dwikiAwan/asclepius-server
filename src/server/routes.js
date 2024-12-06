@@ -1,4 +1,3 @@
-/** @format */
 
 const { postPredictHandler, getPredictHandler } = require("../server/handler");
 
