@@ -1,4 +1,3 @@
-/** @format */
 
 const predictClassification = require("../services/inferenceService");
 const { storeData, getData } = require("../services/dataStore");
